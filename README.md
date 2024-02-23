@@ -31,4 +31,4 @@ This is the website of set-up consulting display
 # Code made by Amiril Mukminin
 
 
-**Result Sample Website** ([https://relaxed-blancmange-44696a.netlify.app/](https://relaxed-blancmange-44696a.netlify.app/))
+**Result Sample Website** ([https://dulcet-boba-628460.netlify.app/](https://dulcet-boba-628460.netlify.app/))
