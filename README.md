@@ -1,79 +1,34 @@
-# DEPLOYMENT ASSIGNMENT
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DUj7T_Sj)
+
+# This is the code of responsive HTML as Assignment study in week 3
+This is an assignment for "responsive HTML as Assignment study in week 3"
 ***
-This Project in Millestone was succesfully deployed using Netlify. User can acces the website of Setup Consulting which the web contain is about Food Safety Program. People can apply and register to get a in-house training or audit program. The website that people can access is : ([https://pakjimbul.my.id/](https://pakjimbul.my.id/))
-
-![Set-UpConsulting](./_Assets/web_set-up.JPG)
+# Description
+Welcome to our project! This is a Set-Up Consulting Wbsite. It contain many program of food safety training. There Hazard Analysis Critical Control Point, Good Manufacturing Practices, Halal, and Legal Product. People can register training in website and contact Set-Up Consulting Company to held a food safety training. We hope you enjoy and we look forward to your contributions!
 ***
-## Deployment Process
-1. Go to ([https://www.netlify.com/](https://www.netlify.com/))
-2. Login with your account if you already have account in netlify, or sign up to join and make account
-![Login Netlify](./_Assets/login1.JPG)
-3. If You already have Git-hub account, you also can login with github account
-![Login Netlify Git-hub](./_Assets/login2.JPG)
-4. After login success, Netlify will bring you to main page
-![Login Netlify Git-hub](./_Assets/login3.JPG)
-5. Choose Add new site and "Import an existing project"
-![Login Netlify Git-hub](./_Assets/login4.JPG)
-6. Choose Deploy with GitHub
-![Login Netlify Git-hub](./_Assets/login5.JPG)
-7. Select Your Github project
-![Login Netlify Git-hub](./_Assets/login6.JPG)
-8. If you cannot see the repository of your github, choose "Configure the Netlify app on Github
-![Login Netlify Git-hub](./_Assets/login7.JPG)
-9. Choose the repository in Github, example: "milestone-1-Amiril1424", Then Deploy the repository.
-![Login Netlify Git-hub](./_Assets/login8.JPG)
-10. After finished Deploy, and success, you will get link of your web. You can access it
-![Login Netlify Git-hub](./_Assets/login9.JPG)
+
+# Contributing
+We welcome any and all contributions! Here are some ways you can get started:
+1. GMP Training
+2. HACCP Training
+3. Halal Training
+4. Legal Product Compliance
+***
+
+# Set-Up Conculting web display
+This is the website of set-up consulting display
+
+# Skill set of assignment
+1. Applying custom font
+2. Adding advance style like text-shadow
+3. Applying grid in both container and children
+4. Responsive Image
+5. Applying animation with CSS
 
 
-## How To Coonect Custome Domain and DNS
-1. Go to ([https://www.niagahoster.co.id/](https://www.niagahoster.co.id/))
+![Set-UpConsulting](./Assets/Web-Set-up-cons.JPG)
 
-![Login Niaga Hoster](./_Assets/niaga1.JPG)
+# Code made by Amiril Mukminin
 
-2. Login with google
 
-![Login Niaga Hoster](./_Assets/niaga2.JPG)
-
-3. Choose Domain tab
-
-![Login Niaga Hoster](./_Assets/niaga3.JPG)
-
-4. Search Domain name that you want
-
-![Login Niaga Hoster](./_Assets/niaga4.JPG)
-
-5. After finishing your payment, back to Niagahoster domain, and choose DNS / Nameservers
-
-![Login Niaga Hoster](./_Assets/niaga6.JPG)
-6. Copy and past the domain name that you already made, and copy-paste target link from Netlify (delete "https://" and last slash in web address). Make sure you already choose CNAME for Type. After that, choose Add record
-
-![Login Niaga Hoster](./_Assets/niaga8.JPG)
-7. Back to Netlify, choose Domain management and Add a domain
-![Login Niaga Hoster](./_Assets/niaga9.JPG)
-
-8. put your domain name and verify
-![Login Niaga Hoster](./_Assets/niaga10.JPG)
-
-9. Add Domain
-![Login Niaga Hoster](./_Assets/niaga11.JPG)
-
-10. Choose option in reight side of domain and choose set-up Netlify DNS
-![Login Niaga Hoster](./_Assets/niaga12.JPG)
-
-11. Choose verify, Add domain, and continue. Don't Choose add record!!!
-![Login Niaga Hoster](./_Assets/niaga13.JPG)
-
-12. You Already have name servers, copy the DNS name. click DOne
-![Login Niaga Hoster](./_Assets/niaga14.JPG)
-
-13. Back to Niagahoster, and change Name server
-![Login Niaga Hoster](./_Assets/niaga15.JPG)
-
-14. Paste the name server from Netlify, one by one
-![Login Niaga Hoster](./_Assets/niaga16.JPG)
-
-15. Niagahoster will need 24 hour for propagation process name server. but old netlify link still accessable.
-![Login Niaga Hoster](./_Assets/niaga17.JPG)
-
-16. ### You already finished setting domain of your web
+**Result Sample Website** ([https://dulcet-boba-628460.netlify.app/](https://dulcet-boba-628460.netlify.app/))
